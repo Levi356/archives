@@ -16,6 +16,6 @@ Old student labs and past coursework. These stay as separate repos for history. 
 - [Aravind-Sriram_BED_LabRestAPI](https://github.com/Levi356/Aravind-Sriram_BED_LabRestAPI)
 - [CSC8104](https://github.com/Levi356/CSC8104)
 
-These are left as-is. To hide them from your public profile, make each one private in Settings → General → Danger Zone (or leave them public and unpinned).
+kinda scared to look at these cause I can’t remember me pushing all these to git lol 
 
-Profile README now points at the new labs work.
+anyways lets start from scratch leaving these in the archives 
